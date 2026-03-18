@@ -1,0 +1,7 @@
+
+tensorflow>=2.12
+streamlit>=1.28
+pillow
+pandas
+reportlab
+numpy
